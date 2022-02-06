@@ -13,7 +13,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Chris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Chris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="Chris-pic" height="150" style="border-radius:50px;" src="https:https://www.instagram.com/p/CZo3i8EOq6z/?utm_source=ig_web_copy_link">
+    <img align="right" alt="Chris-pic" height="150" style="border-radius:50px;" src="eusqn.png">
 </div>
   
   ##
