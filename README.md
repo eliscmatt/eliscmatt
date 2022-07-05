@@ -21,7 +21,7 @@
   <img alt="Chris-GIT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br>
   
-<div style="display=inline" style="flex-direction=row">
+<div style="display: inline" align="center">
 
   <a href="https://instagram.com/hey.iamelis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
