@@ -33,4 +33,3 @@
 </div>
 
 ![Snake animation](https://github.com/eliscmatt/eliscmatt/blob/output/github-contribution-grid-snake.svg)
-  
