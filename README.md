@@ -1,4 +1,4 @@
-# Hey, I'm Elis Mattosinho, nice to meet you!  
+## Hey, I'm Elis Mattosinho, nice to meet you!  
 - 🌸 She/her;  
 - 🐱 I have a pampered cat.  
   
@@ -21,7 +21,7 @@
   <img alt="Chris-GIT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br>
   
-<div style="display: inline" align="center">
+<div align="center">
 
   <a href="https://instagram.com/hey.iamelis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
@@ -30,6 +30,8 @@
   <a href="mailto:eliscmattosinho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   <a href="https://linkfly.to/eliscmatto" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+
+  ![Snake animation](https://github.com/eliscmatt/eliscmatt/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-![Snake animation](https://github.com/eliscmatt/eliscmatt/blob/output/github-contribution-grid-snake.svg)
+
