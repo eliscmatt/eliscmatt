@@ -31,3 +31,6 @@
 
   <a href="https://linkfly.to/eliscmatto" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
 </div>
+
+![Snake animation](https://github.com/eliscmatt)
+  
