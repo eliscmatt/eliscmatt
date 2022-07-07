@@ -1,7 +1,6 @@
 ## Hey, I'm Elis Mattosinho, nice to meet you!  
 - 🌸 She/her;  
 - 🐱 I have a pampered cat.  
-  
 - 🧠 I'm currently a university student in ADS (2th semester of college);  
 - 🤓 Learning about Front-End, more expecifically about JS, and practicing web development;  
 - 😁 I like to learn more and more, and programming is where I saw the possibility of studying at this frequency, always being challenged, having the opotunity to create innovation and inspire others to do the same, in an area almost without limits, is a very pleasurable describable feeling.
@@ -22,7 +21,6 @@
 </div><br>
   
 <div align="center">
-
   <a href="https://instagram.com/hey.iamelis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
   <a href="https://www.linkedin.com/in/eliscmattosinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -30,8 +28,9 @@
   <a href="mailto:eliscmattosinho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   <a href="https://linkfly.to/eliscmatto" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
-
-  ![Snake animation](https://github.com/eliscmatt/eliscmatt/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+![Snake animation](https://github.com/eliscmatt/eliscmatt/blob/output/github-contribution-grid-snake.svg)
+
 
 
