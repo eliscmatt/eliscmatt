@@ -1,17 +1,13 @@
-<div style="background-color:#BF6900;">
 <img src="Elis Christina Gomes Mattosinho.jpg"><br/><br/>
 
-<h1 align="center" style="font-weight:bold; color:#3D0C11;" >
+<h1 align="center" style="font-weight:bold;" >
  Hello, Elis's here, nice to meet you!</h1>
-
-<div style="color:#B5B682;">
 
 - 🧠 I'm currently a university student in ADS (2th semester of college);
 
 - 🤓 Learning about Front-End, more expecifically about JS, and practicing web development;
 
 - 😁 I like to learn more and more, and programming is where I saw the possibility of studying at this frequency, always being challenged, having the opotunity to create innovation and inspire others to do the same, in an area almost without limits, is a very pleasurable describable feeling.
-</div>
 
 <hr><br/><br/>
 
@@ -35,7 +31,7 @@
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/eliscmatt/)
 </div><br/><br/>
 
-<div style="display:inline_block; background-color: #3D0C11;" align="center">
+<div style="display:inline_block;" align="center">
 
 <h2 style="font-weight:bold; color:#B5B682; padding:20px">Technologies</h2>
 <img alt="HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -44,16 +40,14 @@
 <img alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"><br/><br/>
 
-<hr>
-
-<h2 style="font-weight:bold; color:#B5B682; padding:20px">Tools</h2>
+<h2 style="font-weight:bold; padding:20px;">Tools</h2>
   <img alt="Visual Studio Code" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img alt="GIT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img alt="Canva" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img alt="IntelliJ IDEA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"><br/><br/>
 </div><br/><br/>
 
-<p align="center" style="font-weight:bold; color:#B5B682;">Aqui acabou, mas não vai, não. Bora dar uma olhada nos repositórios!!</p><br/><br/>
+<p align="center" style="font-weight:bold;">Aqui acabou, mas não vai, não. Bora dar uma olhada nos repositórios!!</p><br/><br/>
 
 <img src="Elis Christina Gomes Mattosinho end.jpg" alt="So let´s go; Recent projects, developer baking in the oven.">
 </div>
