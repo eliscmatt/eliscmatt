@@ -33,21 +33,24 @@
 
 <div style="display:inline_block;" align="center">
 
-<h2 style="font-weight:bold; color:#B5B682; padding:20px">Technologies</h2>
+<h2>Technologies</h2>
 <img alt="HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img alt="CSS3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img alt="C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 <img alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"><br/><br/>
 
-<h2 style="font-weight:bold; padding:20px;">Tools</h2>
+<h2>Tools</h2>
   <img alt="Visual Studio Code" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img alt="GIT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img alt="Canva" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img alt="IntelliJ IDEA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"><br/><br/>
 </div><br/><br/>
 
-<p align="center" style="font-weight:bold;">Aqui acabou, mas não vai, não. Bora dar uma olhada nos repositórios!!</p><br/><br/>
+
+<hr>
+<p align="center">Aqui acabou, mas não vai, não. Bora dar uma olhada nos repositórios!!</p><br/><br/>
+<hr>
 
 <img src="Elis Christina Gomes Mattosinho end.jpg" alt="So let´s go; Recent projects, developer baking in the oven.">
 </div>
