@@ -51,5 +51,8 @@
 <hr><br/><br/>
 <p align="center">Aqui acabou, mas não vai, não. Bora dar uma olhada nos repositórios!!</p><br/><br/>
 
+![Snake animation](https://github.com/eliscmatt/eliscmatt/blob/output/github-contribution-grid-snake.svg)
+
 <img src="Elis Christina Gomes Mattosinho end.jpg" alt="So let´s go; Recent projects, developer baking in the oven.">
 </div>
+
