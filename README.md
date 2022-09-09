@@ -1,7 +1,6 @@
 <img src="Elis Christina Gomes Mattosinho.jpg"><br/><br/>
 
-<h1 align="center" style="font-weight:bold;" >
- Hello, Elis's here, nice to meet you!</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Robot&size=30&pause=1000&color=BF6900&center=true&vCenter=true&width=500&lines=+Hello%2C+I'm+Elis!;I'm+a+front-end+Developer.)](https://git.io/typing-svg)
 
 - 🧠 I'm currently a university student in ADS (2th semester of college);
 
@@ -24,7 +23,7 @@
   <img height="196" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliscmatt&show_icons=true&theme=dracula" alt="Github language">
 </div><br/><br/>
 
-<div style="display:inline_block" align="center">
+<div style="display:inline_block;" align="center">
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@eliscmattosinho)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)]()
@@ -37,14 +36,12 @@
 <img alt="HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img alt="CSS3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img alt="C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-<img alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"><br/><br/>
+<img alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><br/><br/><br/><br/>
 
 <h2>Tools</h2>
   <img alt="Visual Studio Code" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img alt="GIT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img alt="Canva" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-  <img alt="IntelliJ IDEA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"><br/><br/>
+  <img alt="Canva" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"><br/><br/>
 </div><br/><br/>
 
 
