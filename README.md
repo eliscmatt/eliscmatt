@@ -22,7 +22,7 @@
 </div><br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliscmatt&show_icons=true&theme=dracula&title_color=FFDF2B&custom_title=Elis Christ. Mattosinho - Web/Mobile Developer&border_color=BF6900&bg_color=3D0C11&text_color=BF6900&icon_color=FFDF2B" alt="Github status">
+  <img src="https://github-readme-stats.vercel.app/api?username=eliscmatt&show_icons=true&theme=dracula&title_color=FFDF2B&custom_title=💚+Elis+Christ.+Mattosinho+-+Web/Mobile+Developer+💙&border_color=BF6900&bg_color=3D0C11&text_color=BF6900&icon_color=FFDF2B" alt="Github status">
   <img height="196" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliscmatt&theme=dracula&title_color=FFDF2B&border_color=BF6900&bg_color=3D0C11&text_color=BF6900&icon_color=FFDF2B" alt="Github language">
 </div><br/><br/>
 
