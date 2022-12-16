@@ -1,12 +1,15 @@
 <img src="Elis Christina Gomes Mattosinho.jpg"><br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Robot&size=30&pause=1000&color=BF6900&center=true&vCenter=true&width=800&lines=+Hello%2C+I'm+Elis!;I'm+a+front-end+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=22&duration=4000&pause=1000&color=BF6900&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Elis!;A+front-end+developer+in+process+of+evolution.)](https://git.io/typing-svg)
 
-- 🧠 I'm currently a university student in ADS (2th semester of college);
+- 🧠 I'm a university student in ADS at Fatec Ourinhos (3th semester, superior technologist);
 
-- 🤓 Learning about Front-End, more expecifically about JS, and practicing web development;
+- 💚 Intern at [Estuda.com](https://www.linkedin.com/company/grupo-estuda/mycompany/);
 
-- 😁 I like to learn more and more, and programming is where I saw the possibility of studying at this frequency, always being challenged, having the opotunity to create innovation and inspire others to do the same, in an area almost without limits, is a very pleasurable describable feeling.
+- 🚀 Practicing Web Development;
+
+
+- 🌟 I like to <strong>learn</strong> more and more, and <strong>programming is where I saw the possibility of studying in this frequency</strong>, always being challenged, having the opportunity to <strong>create innovation</strong> and <strong>inspire others to do the same</strong>, in an area almost without limits, is a very pleasurable and limitable feeling.
 
 <hr><br/><br/>
 
@@ -19,8 +22,8 @@
 </div><br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliscmatt&show_icons=true&theme=dracula" alt="Github status">
-  <img height="196" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliscmatt&show_icons=true&theme=dracula" alt="Github language">
+  <img src="https://github-readme-stats.vercel.app/api?username=eliscmatt&custom_title=💚 Elis Christ. Mattosinho - Web/Mobile Developer 💙&show_icons=true&title_color=FFDF2B&border_color=BF6900&bg_color=3D0C11&text_color=BF6900&icon_color=FFDF2B" alt="Github status">
+  <img height="196" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliscmatt&custom_title=🌟 Most Used Languages 🌟&show_icons=true&title_color=FFDF2B&border_color=BF6900&bg_color=3D0C11&text_color=FFDF2B&icon_color=FFDF2B" alt="Github language">
 </div><br/><br/>
 
 <div style="display:inline_block;" align="center">
@@ -28,26 +31,11 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@eliscmattosinho)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)]()
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/eliscmatt/)
-</div><br/><br/>
+</div><br/><hr/>
 
-<div style="display:inline_block;" align="center">
+<div style="display:inline_block;" align="center"><br/>
 
-<h2>Technologies</h2>
-<img alt="HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img alt="CSS3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img alt="C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-<img alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><br/><br/><br/><br/>
-
-<h2>Tools</h2>
-  <img alt="Visual Studio Code" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img alt="GIT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img alt="Canva" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"><br/><br/>
-</div><br/><br/>
-
-
-<hr><br/><br/>
-<p align="center">Aqui acabou, mas não vai, não. Bora dar uma olhada nos repositórios!!</p><br/><br/>
+<p align="center">It's over here, but it won't. Bora take a look at the repositories!</p><br/><br/>
 
 <img src="Elis Christina Gomes Mattosinho end.jpg" alt="So let´s go; Recent projects, developer baking in the oven.">
 </div>
-
