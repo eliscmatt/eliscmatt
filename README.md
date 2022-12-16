@@ -22,8 +22,8 @@
 </div><br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliscmatt&custom_title=💚 Elis Christ. Mattosinho - Web/Mobile Developer 💙&show_icons=true&title_color=FFDF2B&border_color=BF6900&bg_color=3D0C11&text_color=BF6900&icon_color=FFDF2B" alt="Github status">
-  <img height="196" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliscmatt&custom_title=🌟 Most Used Languages 🌟&show_icons=true&title_color=FFDF2B&border_color=BF6900&bg_color=3D0C11&text_color=FFDF2B&icon_color=FFDF2B" alt="Github language">
+  <img src="https://github-readme-stats.vercel.app/api?username=eliscmatt&custom_title=💚 Elis Christ. Mattosinho - Web/Mobile Developer 💙&show_icons=true&theme=dracule&title_color=FFDF2B&border_color=BF6900&bg_color=3D0C11&text_color=BF6900&icon_color=FFDF2B" alt="Github status">
+  <img height="196" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliscmatt&custom_title=🌟 Most Used Languages 🌟&show_icons=truetheme=dracule&title_color=FFDF2B&border_color=BF6900&bg_color=3D0C11&text_color=FFDF2B&icon_color=FFDF2B" alt="Github language">
 </div><br/><br/>
 
 <div style="display:inline_block;" align="center">
