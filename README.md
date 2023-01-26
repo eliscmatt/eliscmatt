@@ -1,6 +1,6 @@
 <img src="Elis Christina Gomes Mattosinho.jpg"><br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=22&duration=4000&pause=1000&color=BF6900&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Elis!;A+front-end+developer+in+process+of+evolution.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=24&duration=4000&pause=1000&color=BF6900&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Elis!;A+front-end+developer+in+process+of+evolution.)](https://git.io/typing-svg)
 
 - 🧠 I'm a university student in ADS at Fatec Ourinhos (3th semester, superior technologist);
 
