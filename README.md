@@ -6,8 +6,7 @@
 
 - 💚 Intern at [Estuda.com](https://www.linkedin.com/company/grupo-estuda/mycompany/);
 
-- 🚀 Practicing Web Development;
-
+- 🚀 Practicing Web and Mobile Development;
 
 - 🌟 I like to <strong>learn</strong> more and more, and <strong>programming is where I saw the possibility of studying in this frequency</strong>, always being challenged, having the opportunity to <strong>create innovation</strong> and <strong>inspire others to do the same</strong>, in an area almost without limits, is a very pleasurable and limitable feeling.
 
