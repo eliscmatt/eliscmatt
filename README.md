@@ -1,13 +1,12 @@
 <img src="Elis Christina Gomes Mattosinho.jpg"><br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=22&duration=4000&pause=1000&color=BF6900&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Elis!;A+front-end+developer+in+process+of+evolution.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=24&duration=4000&pause=1000&color=BF6900&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Elis!;A+front-end+developer+in+process+of+evolution.)](https://git.io/typing-svg)
 
 - 🧠 I'm a university student in ADS at Fatec Ourinhos (3th semester, superior technologist);
 
 - 💚 Intern at [Estuda.com](https://www.linkedin.com/company/grupo-estuda/mycompany/);
 
-- 🚀 Practicing Web Development;
-
+- 🚀 Practicing Web and Mobile Development;
 
 - 🌟 I like to <strong>learn</strong> more and more, and <strong>programming is where I saw the possibility of studying in this frequency</strong>, always being challenged, having the opportunity to <strong>create innovation</strong> and <strong>inspire others to do the same</strong>, in an area almost without limits, is a very pleasurable and limitable feeling.
 
