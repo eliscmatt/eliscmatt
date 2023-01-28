@@ -22,7 +22,9 @@
 </div><br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliscmatt&show_icons=true&theme=dracula&title_color=FFDF2B&custom_title=💚+Elis+Christ.+Mattosinho+-+Web/Mobile+Developer+💙&border_color=BF6900&bg_color=3D0C11&text_color=BF6900&icon_color=FFDF2B" alt="Github status">
+  <a href="https://github.com/eliscmatt"><img width ="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=eliscmatt&stroke=BF6900&background=3D0C11&ring=BF6900&fire=BF6900&currStreakNum=ffffff&currStreakLabel=BF6900&sideNums=ffffff&sideLabels=BF6900&dates=ffffff&hide_border=false" alt="GitHub Stats"/></a>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=eliscmatt&show_icons=true&theme=dracula&title_color=FFDF2B&custom_title=Elis+Christ.+Mattosinho+-+Web/Mobile+Developer&border_color=BF6900&bg_color=3D0C11&text_color=BF6900&icon_color=FFDF2B" alt="Github status">
   <img height="196" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliscmatt&theme=dracula&title_color=FFDF2B&border_color=BF6900&bg_color=3D0C11&text_color=BF6900&icon_color=FFDF2B" alt="Github language">
 </div><br/><br/>
 
