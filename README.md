@@ -1,4 +1,4 @@
-<img src="Elis Christina Gomes Mattosinho.jpg"><br/><br/>
+<img src="Elis Christina Gomes Mattosinho.jpg" width="80"/><br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=24&duration=4000&pause=1000&color=BF6900&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Elis!;A+front-end+developer+in+process+of+evolution.)](https://git.io/typing-svg)
 
@@ -38,5 +38,5 @@
 
 <p align="center">It's over here, but it won't. Bora take a look at the repositories!</p><br/><br/>
 
-<img src="Elis Christina Gomes Mattosinho end.jpg" alt="So let´s go; Recent projects, developer baking in the oven.">
+<img src="Elis Christina Gomes Mattosinho end.jpg" alt="So let´s go; Recent projects, developer baking in the oven."  width="80"/>
 </div>
