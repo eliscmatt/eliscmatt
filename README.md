@@ -1,6 +1,10 @@
-<img src="Elis Christina Gomes Mattosinho.jpg" width="80%"/><br/><br/>
-
+<div align="center">
+<img src="Elis Christina Gomes Mattosinho.jpg" width="70%"/><br/><br/>
+<div/>
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=24&duration=4000&pause=1000&color=BF6900&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Elis!;A+front-end+developer+in+process+of+evolution.)](https://git.io/typing-svg)
+  
+  ## About Me
 
 - 🧠 I'm a university student in ADS at Fatec Ourinhos (3th semester, superior technologist);
 
@@ -12,6 +16,7 @@
 
 <hr><br/><br/>
 
+## Direct Links
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliscmattosinho/)
@@ -19,7 +24,9 @@
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12161239580?si=rqPDInhBR0my_mkifD9XXw&utm_source=copy-link&nd=1)
   [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliscmattosinho@gmail.com)
 </div><br/>
-
+  
+  
+## States
 <div align="center">
   <a href="https://github.com/eliscmatt"><img width ="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=eliscmatt&stroke=BF6900&background=3D0C11&ring=BF6900&fire=BF6900&currStreakNum=ffffff&currStreakLabel=BF6900&sideNums=ffffff&sideLabels=BF6900&dates=ffffff&hide_border=false" alt="GitHub Stats"/></a>
   
@@ -27,10 +34,12 @@
   <img height="196" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliscmatt&theme=dracula&title_color=FFDF2B&border_color=BF6900&bg_color=3D0C11&text_color=BF6900&icon_color=FFDF2B" alt="Github language">
 </div><br/><br/>
 
+## More Links 
+  
 <div style="display:inline_block;" align="center">
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@eliscmattosinho)
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)]()
+<!-- [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)]() -->
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/eliscmatt/)
 </div><br/><hr/>
 
@@ -38,5 +47,5 @@
 
 <p align="center">It's over here, but it won't. Bora take a look at the repositories!</p><br/><br/>
 
-<img src="Elis Christina Gomes Mattosinho end.jpg" alt="So let´s go; Recent projects, developer baking in the oven."  width="80%"/>
+<img src="Elis Christina Gomes Mattosinho end.jpg" alt="So let´s go; Recent projects, developer baking in the oven."  width="70%"/>
 </div>
