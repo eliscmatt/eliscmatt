@@ -1,51 +1,34 @@
-<div align="center">
-<img src="Elis Christina Gomes Mattosinho.jpg" width="70%"/><br/><br/>
-<div/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&size=60&pause=1000&color=BF6900&center=true&vCenter=true&repeat=false&width=800&height=65&lines=Hello!+I'm+Elis.;Web+and+Mobile+Developer%2C;it's+a+pleasure!)](https://git.io/typing-svg)
+<hr/>
+
+<img src="done.svg" width="265px" align="right" alt="Developer"/>
+
+  <p>🧠 I'm a university student in <strong>ADS</strong> at Fatec Ourinhos;</p>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=24&duration=4000&pause=1000&color=BF6900&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Elis!;A+front-end+developer+in+process+of+evolution.)](https://git.io/typing-svg)
-  
-  ## About Me
+  <p>💚 Working as a <strong>junior app developer</strong>, at <a href="https://www.linkedin.com/company/grupo-estuda/">Estuda.com</a>, a company focused on education and solutions for the management of the educational scope;</p>
 
-- 🧠 I'm a university student in ADS at Fatec Ourinhos (3th semester, superior technologist);
+  <p>📚 <strong>I enjoy</strong> coffee, cats, reading, learning more and sharing knowledge;</p>
 
-- 💚 Intern at [Estuda.com](https://www.linkedin.com/company/grupo-estuda/mycompany/);
+  <p>⤵️ <strong>Most about me:</strong></p>
 
-- 🚀 Practicing Web and Mobile Development;
-
-- 🌟 I like to <strong>learn</strong> more and more, and <strong>programming is where I saw the possibility of studying in this frequency</strong>, always being challenged, having the opportunity to <strong>create innovation</strong> and <strong>inspire others to do the same</strong>, in an area almost without limits, is a very pleasurable and limitable feeling.
-
-<hr><br/><br/>
-
-## Direct Links
-<div align="center">
-
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliscmattosinho@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliscmattosinho/)
-  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hey.iamelis)
-  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12161239580?si=rqPDInhBR0my_mkifD9XXw&utm_source=copy-link&nd=1)
-  [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliscmattosinho@gmail.com)
-</div><br/>
-  
-  
-## States
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@eliscmattosinho)
+  [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/eliscmatt/)
+
+
+<br/>
+<hr/>
+<br/>
+<br/>
+
 <div align="center">
-  <a href="https://github.com/eliscmatt"><img width ="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=eliscmatt&stroke=BF6900&background=3D0C11&ring=BF6900&fire=BF6900&currStreakNum=ffffff&currStreakLabel=BF6900&sideNums=ffffff&sideLabels=BF6900&dates=ffffff&hide_border=false" alt="GitHub Stats"/></a>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=eliscmatt&show_icons=true&theme=dracula&title_color=FFDF2B&custom_title=Elis+Christ.+Mattosinho+-+Web/Mobile+Developer&border_color=BF6900&bg_color=3D0C11&text_color=BF6900&icon_color=FFDF2B" alt="Github status">
+  <img src="https://github-readme-stats.vercel.app/api?username=eliscmatt&show_icons=true&theme=dracula&title_color=FFDF2B&custom_title=Elis+Christina+Mattosinho+-+Web/Mobile+Developer&border_color=BF6900&bg_color=3D0C11&text_color=BF6900&icon_color=FFDF2B" alt="Github status">
   <img height="196" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliscmatt&theme=dracula&title_color=FFDF2B&border_color=BF6900&bg_color=3D0C11&text_color=BF6900&icon_color=FFDF2B" alt="Github language">
-</div><br/><br/>
+</div>
 
-## More Links 
-  
-<div style="display:inline_block;" align="center">
+<br/>
+<br/>
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@eliscmattosinho)
-<!-- [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)]() -->
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/eliscmatt/)
-</div><br/><hr/>
-
-<div style="display:inline_block;" align="center"><br/>
-
-<p align="center">It's over here, but it won't. Bora take a look at the repositories!</p><br/><br/>
-
-<img src="Elis Christina Gomes Mattosinho end.jpg" alt="So let´s go; Recent projects, developer baking in the oven."  width="70%"/>
+<p align="center">It's over here, but it's not going to. Take a look at the repositories!</p>
 </div>
