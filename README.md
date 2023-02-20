@@ -55,8 +55,8 @@
 <br/>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=eliscmatt&show_icons=true&theme=dracula&title_color=FFDF2B&custom_title=Elis+Christina+Mattosinho+-+Web/Mobile+Developer&border_color=BF6900&bg_color=&text_color=BF6900&icon_color=FFDF2B" alt="Github status">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliscmatt&layout=compact&theme=dracula&title_color=FFDF2B&border_color=BF6900&bg_color=&text_color=BF6900&icon_color=FFDF2B" alt="Github language">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=eliscmatt&show_icons=true&bg_color=00000000&title_color=FFDF2B&custom_title=Elis+Christina+Mattosinho+-+Web/Mobile+Developer&border_color=BF6900&text_color=BF6900&icon_color=FFDF2B" alt="Github status">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliscmatt&layout=compact&bg_color=00000000&title_color=FFDF2B&border_color=BF6900&text_color=BF6900&icon_color=FFDF2B" alt="Github language">
 </div>
 
 <br/>
