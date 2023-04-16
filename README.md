@@ -5,7 +5,7 @@
 
   <p>🧠 I'm a university student in <strong>ADS</strong> at Fatec Ourinhos;</p>
   
-  <p>💚 Working as a <strong>junior app developer</strong>, at <a href="https://www.linkedin.com/company/grupo-estuda/">Estuda.com</a>, a company focused on education and solutions for the management of the educational scope;</p>
+  <p>💚 Working as a <strong>junior developer</strong>, at <a href="https://www.linkedin.com/company/grupo-estuda/">Estuda.com</a>, a company focused on education and solutions for the management of the educational scope;</p>
 
   <p>📚 <strong>I enjoy</strong> coffee, cats, reading, learning more and sharing knowledge;</p>
 
