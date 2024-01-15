@@ -4,8 +4,6 @@
 <img src="done.svg" width="265px" align="right" alt="Developer"/>
 
   <p>🧠 I'm a university student in <strong>ADS</strong> at Fatec Ourinhos;</p>
-  
-  <p>💚 Working as a <strong>junior developer</strong>, at <a href="https://www.linkedin.com/company/grupo-estuda/">Estuda.com</a>, a company focused on education and solutions for the management of the educational scope;</p>
 
   <p>📚 <strong>I enjoy</strong> coffee, cats, reading, learning more and sharing knowledge;</p>
 
@@ -14,8 +12,6 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliscmattosinho@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliscmattosinho/)
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@eliscmattosinho)
-  [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/eliscmatt/)
-
 
 <br/>
 <hr/>
